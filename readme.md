@@ -12,7 +12,7 @@ Langkah-langkah : - menggunakan software intelliJ IDEA create new project gradle
                                             git add .
                                             git commit -m "first commit"
                                             git branch -M main
-                                            git remote add origin https://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@github.com/rianardiansari/learnGreadletask.git
+                                            git remote add origin https://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@github.com/rianardiansari/learnGradletask.git
                                             git add .
                                             git commit -m "adding readme.md"
                                             git push -u origin main
